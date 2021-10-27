@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 100%; 
+}
+
+h1 {font-family: fantasy; color: antiquewhite;}
+h3 {color: aliceblue;}
+#output {color: bisque;
+font-weight: bold;}
+input {
+    width: 16em; background-color: antiquewhite;
+}
+
+
+
+
